@@ -1,12 +1,14 @@
+import UserCard from "./Components/UserCard"
 
 
 
 function App() {
 
-
   return (
     <div>
-      <h1>Hello Jee</h1>
+    <UserCard />
+    <UserCard />
+    <UserCard />
    </div>
   )
 }
