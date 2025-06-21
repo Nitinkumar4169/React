@@ -1,5 +1,5 @@
 import UserCard from "./Components/UserCard"
-
+import nitinpic from "./assets/nitinpic.jpeg"
 
 
 function App() {
