@@ -1,6 +1,6 @@
 import React from "react";
 import nitinpic from '../assets/nitinpic.jpeg'
-import './index.css'
+import './UserCard.css'
 
 const UserCard = () => {
   return (
