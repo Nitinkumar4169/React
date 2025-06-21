@@ -6,9 +6,9 @@ function App() {
 
   return (
     <div className="container">
-    <UserCard />
-    <UserCard />
-    <UserCard />
+    <UserCard name="Nitin Yadav"/>
+    <UserCard name="Tula Rao"/>
+    <UserCard name="Shri Krishna"/>
    </div>
   )
 }
